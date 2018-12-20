@@ -23,12 +23,6 @@
             "name": "nginx",
             "image": "dimavedenyapin/multi-nginx",
             "hostname": "nginx",
-            "essential": true
-        },
-        {
-            "name": "nginx",
-            "image": "dimavedenyapin/multi-nginx",
-            "hostname": "nginx",
             "essential": true,
             "portMappings": [
                 {
